@@ -8,6 +8,16 @@ Sunpersona 是面向中英文品牌的生成式引擎优化服务。这个公开
 - [中文介绍](https://sunpersona.com/zh/about/)
 - [公开实验室](https://sunpersona.com/zh/lab/)
 - [脱敏逐题数据](https://sunpersona.com/lab/results-2026-09-17.json)
+- [GitHub 品牌主页](https://github.com/sunpersona)
+- [Substack 五层验收文章](https://sunpersona.substack.com/p/geo)
+
+## 方法文章
+
+- [40 条 AI 回答中的品牌识别问题](./40条AI回答中的品牌识别问题.md)
+- [从网页可访问到 AI 引用的核验方法](./从网页可访问到AI引用的核验方法.md)
+- [新站 GEO 实验的五层验收记录](./新站GEO实验的五层验收记录.md)
+
+第三篇同时保留在 Substack，便于读者核对方法；跨平台保存同一文章不计为新增独立文章或第三方认可。GitHub 品牌资料、实验仓库及 Substack 专栏均是品牌自行维护的入口，不是独立客户评价或媒体背书。
 
 ## 历史基线
 
